@@ -2,7 +2,7 @@
 
 > **A robust, well-documented implementation of the Raft consensus algorithm for distributed log replication in Go**
 
-⚠️ **Educational Purpose Only** - This is a course project solution. See details below.
+⚠️ **Educational Purpose Only** 
 
 [![Go Version](https://img.shields.io/badge/Go-1.16+-00ADD8?logo=go)](https://golang.org)
 
@@ -10,9 +10,9 @@
 
 ## � Educational Purpose
 
-**Please Note**: This repository contains solutions to MIT's 6.824 Distributed Systems course assignments. It is published for educational and portfolio purposes only.
+**Please Note**: It is published for educational and portfolio purposes only.
 
-⚠️ **Academic Integrity**: If you are taking this course, **do not copy this code**. Use it only as a reference after completing your own implementation. Your institution's academic integrity policy applies.
+⚠️ **Academic Integrity**: If you are taking a similar course, **do not copy this code**. Use it only as a reference after completing your own implementation. Your institution's academic integrity policy applies.
 
 ## 📋 Overview
 
@@ -456,7 +456,7 @@ Main Thread
 
 ## ⚖️ Notes on Use
 
-**This is an educational project** from MIT's 6.824 course. It is published for:
+It is published for:
 - ✅ Learning and understanding Raft consensus
 - ✅ Portfolio demonstration
 - ✅ Reference implementation studies
