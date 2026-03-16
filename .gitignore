@@ -1,0 +1,76 @@
+# Gitignore for Raft Consensus Implementation
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.html
+
+# Go workspace file
+go.work
+
+# Dependency directories
+vendor/
+
+# Go mod cache
+go.mod.bak
+go.sum.bak
+
+# IDE-specific files
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.vscode/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts
+dist/
+build/
+bin/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+
+# Test artifacts
+test-results/
+test.out
+debug.test
+
+# Profiling
+*.prof
+*.pprof
+cpu.prof
+mem.prof
+
+# Editor files
+.editorconfig
+
+# Environment files
+.env
+.env.local
+*.pem
+*.key
+
+# Generated files
+*.pb.go
+*.pb.gw.go
