@@ -1,16 +1,22 @@
-# Raft Consensus Algorithm - Production-Ready Implementation
+# Raft Consensus Algorithm - Educational Implementation
 
-> **A robust, industry-standard implementation of the Raft consensus algorithm for distributed log replication in Go**
+> **A robust, well-documented implementation of the Raft consensus algorithm for distributed log replication in Go**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+⚠️ **Educational Purpose Only** - This is a course project solution. See details below.
+
 [![Go Version](https://img.shields.io/badge/Go-1.16+-00ADD8?logo=go)](https://golang.org)
-[![Build Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)]()
 
 ---
 
+## � Educational Purpose
+
+**Please Note**: This repository contains solutions to MIT's 6.824 Distributed Systems course assignments. It is published for educational and portfolio purposes only.
+
+⚠️ **Academic Integrity**: If you are taking this course, **do not copy this code**. Use it only as a reference after completing your own implementation. Your institution's academic integrity policy applies.
+
 ## 📋 Overview
 
-This is a **complete, fully-functional implementation** of the Raft consensus algorithm based on the acclaimed [Raft paper](https://raft.github.io/raft.pdf). It provides a foundation for building highly available, fault-tolerant distributed systems with strong consistency guarantees.
+This is a **complete, fully-functional implementation** of the Raft consensus algorithm based on the acclaimed [Raft paper](https://raft.github.io/raft.pdf). It serves as an educational reference for understanding consensus algorithms and distributed systems.
 
 ### Key Features
 
@@ -19,7 +25,7 @@ This is a **complete, fully-functional implementation** of the Raft consensus al
 - ✅ **Replicated Key-Value Store** - Real-world example built on Raft consensus
 - ✅ **Network Abstraction Layer** - Channel-based RPC framework with failure simulation
 - ✅ **Comprehensive Testing** - Rigorous test suite validating all consensus properties
-- ✅ **Production-Grade** - Follows industry standards and best practices
+- ✅ **Well-Documented** - Comprehensive guides and examples
 - ✅ **Thread-Safe** - Uses mutexes for concurrent access safety
 
 ---
@@ -448,9 +454,15 @@ Main Thread
 
 ---
 
-## 📄 License
+## ⚖️ Notes on Use
 
-MIT License - Please email at ahmadkashifxyz@gmail.com for license (stating purpose).
+**This is an educational project** from MIT's 6.824 course. It is published for:
+- ✅ Learning and understanding Raft consensus
+- ✅ Portfolio demonstration
+- ✅ Reference implementation studies
+- ❌ **NOT for** copying in academic courses or commercial use without permission
+
+If you're a student taking a similar course, **please write your own implementation** for academic integrity. Use this only as a reference after completing your own work.
 
 ---
 
