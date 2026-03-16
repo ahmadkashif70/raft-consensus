@@ -2,7 +2,7 @@
 
 > **A robust, well-documented implementation of the Raft consensus algorithm for distributed log replication in Go**
 
-⚠️ **Educational Purpose Only** 
+**Educational Purpose Only** 
 
 [![Go Version](https://img.shields.io/badge/Go-1.16+-00ADD8?logo=go)](https://golang.org)
 
